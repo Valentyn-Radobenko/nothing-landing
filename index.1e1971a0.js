@@ -1,0 +1,2 @@
+var e=document.querySelectorAll(".hidden"),n=document.querySelector(".menu"),t=!0,o=function(){e.forEach(function(e){var n=e.getBoundingClientRect().top,t=e.getBoundingClientRect().bottom;n<window.innerHeight-20&&t>20?e.classList.add("visible"):e.classList.contains("top-bar")||e.classList.remove("visible")})},i=function(){t&&(window.scrollTo(0,0),t=!1),"block"!==n.style.display&&o()};window.addEventListener("scroll",i),document.addEventListener("DOMContentLoaded",i);
+//# sourceMappingURL=index.1e1971a0.js.map
