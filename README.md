@@ -1,6 +1,6 @@
 # Nothing Landing Page
 
-A practice landing page inspired by **Nothing**, a London-based tech company known for its minimalist and innovative approach to technology.
+A landing page inspired by **Nothing**, a London-based tech company known for its minimalist and innovative approach to technology.
 
 ## Features
 - **HTML, SCSS, and JavaScript**: Responsive layout and dynamic interactions using modern web technologies.
